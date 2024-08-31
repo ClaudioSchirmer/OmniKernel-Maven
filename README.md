@@ -19,7 +19,7 @@ OmniKernel makes it easier for developers, allowing an Android developer to quic
 ```kotlin
 suspend fun testExample() {
     val omniClient = OmniClient(scheme = OmniClientScheme.Http, host = "host.com")
-    val omniResponse = omniClient.post(path = "/path", body = "body")
+    val omniResponse = omniClient.postJson(path = "/path", body = YourClass(value = "value"))
     if (omniResponse.successfullyReceived()) {
         val yourClass: YourClass = omniResponse.decode()
         // Use yourClass
@@ -30,7 +30,7 @@ suspend fun testExample() {
 ```swift
 func testExample() async throws {
     var omniClient = OmniClient(scheme: OmniClientScheme.Http, host: "host.com")
-    let omniResponse = try await omniClient.post(path: "/path", body: "body")
+    let omniResponse = try await omniClient.postJson(path: "/path", body: YourClass(value: "value"))
     if (omniResponse.successfullyReceived()) {
         let yourClass: YourClass = try omniResponse.decode()
         // Use yourClass
