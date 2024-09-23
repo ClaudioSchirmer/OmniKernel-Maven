@@ -14,9 +14,7 @@ Key Benefits:
 OmniKernel makes it easier for developers, allowing an Android developer to quickly understand iOS code and vice versa.
 
 Documentation: https://www.schirmer.dev.br/overview/omnikernel
-
-Maven URL: https://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:x-oauth-basic@maven.pkg.github.com/ClaudioSchirmer/OmniKernel-Maven 
-> Due to restrictions, this token is provided with read-only access to allow downloading the package
+> Due to restrictions, please refer to the documentation for the link. The token provided has read-only access to allow downloading the package.
 
 # Example
 ## HttpClient for Android:
