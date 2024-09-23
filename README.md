@@ -15,7 +15,7 @@ OmniKernel makes it easier for developers, allowing an Android developer to quic
 
 Documentation: https://www.schirmer.dev.br/overview/omnikernel
 
-Maven URL: https://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:x-oauth-basic@maven.pkg.github.com/ClaudioSchirmer/OmniKernel-Maven 
+Maven URL: https://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:x-oauth-basic@maven.pkg.github.com/ClaudioSchirmer/OmniKernel-Maven 
 > Due to restrictions, this token is provided with read-only access to allow downloading the package
 
 # Example
