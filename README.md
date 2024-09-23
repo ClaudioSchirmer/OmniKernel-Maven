@@ -13,7 +13,7 @@ Key Benefits:
 
 OmniKernel makes it easier for developers, allowing an Android developer to quickly understand iOS code and vice versa.
 
-> Due to restrictions, please refer to the documentation for the link. The token provided has read-only access to allow downloading the package.
+> Due to restrictions, please refer to the documentation for the Maven package download link. The token provided has read-only access to allow you to download the package.
 
 Documentation: https://www.schirmer.dev.br/overview/omnikernel
 
