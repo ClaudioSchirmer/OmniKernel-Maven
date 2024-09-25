@@ -1,6 +1,6 @@
 # OmniKernel for Android
 
-Many platforms face challenges when converting code between Android and iOS. These challenges often lead to bugs and issues. Some companies turn to code generation tools, but this can result in losing control over the code.
+Many platforms face challenges when converting code between Android and iOS. These challenges often lead to bugs and issues. Some companies turn to code multiplatform tools, but this can result in losing control over the code.
 
 OmniKernel is a new framework under development that aims to simplify this process. It makes certain pieces of code between Android and iOS as similar as possible. With OmniKernel, you can almost copy and paste these code snippets from one platform to another, while still maintaining your native code and control.
 
