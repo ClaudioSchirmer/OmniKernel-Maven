@@ -15,7 +15,7 @@ OmniKernel makes it easier for developers, allowing an Android developer to quic
 
 > Due to restrictions, please refer to the documentation for the Maven package download link. The token provided has read-only access to allow you to download the package.
 
-Documentation: https://www.schirmer.dev.br/overview/omnikernel
+Documentation: [https://www.schirmer.dev.br/overview/omnikernel](https://www.schirmer.dev.br/about-me/omnikernel)
 
 # Example
 ## HttpClient for Android:
